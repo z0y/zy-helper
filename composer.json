@@ -1,0 +1,19 @@
+{
+    "name": "z0y/zy-helper",
+    "description": "php基础类",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "z0y",
+            "email": "zhao0yan@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "z0y\\": "src"
+        },
+        "files": [
+            "src/Helper.php"
+        ]
+    }
+}
