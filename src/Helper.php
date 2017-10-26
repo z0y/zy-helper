@@ -9,5 +9,10 @@ namespace z0y;
  */
 
 class Helper {
+	
+	public function test(){
+		
+		echo 'hello world!';
+	}
 
 }
